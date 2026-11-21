@@ -1,0 +1,10 @@
+{
+    "version":  "1.0.0",
+    "versionName":  "1.0.0",
+    "versionCode":  1,
+    "changelog":  "• Независимый модуль автообновления Kinovo TV (kinovo-tv-releases)\n• Только 4K KinoPub, динамический фон при навигации пультом и обновлённый масштаб интерфейса",
+    "downloadUrl":  "https://raw.githubusercontent.com/q717466-star/kinovo-tv-releases/main/kinovo-tv-release.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/q717466-star/kinovo-tv-releases/main/kinovo-tv-release.apk",
+    "apkSize":  5103597,
+    "sha256":  "fae195c33a0bf5263c2f8466c7174551b9bf22119c3f834c43d98bf089d3b339"
+}
