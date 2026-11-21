@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.2",
-    "versionName":  "1.0.2",
-    "versionCode":  3,
-    "changelog":  "• Убран экран соглашения и исправлен фокус пульта в окне обновлений",
+    "version":  "1.0.3",
+    "versionName":  "1.0.3",
+    "versionCode":  4,
+    "changelog":  "• Исправлен возврат фокуса пульта вверх на билборд на главном экране\n• Исправлено пропадание фокуса при нажатии «Влево» на кнопке «Смотреть» в карточке фильма",
     "downloadUrl":  "https://raw.githubusercontent.com/q717466-star/kinovo-tv-releases/main/kinovo-tv-release.apk",
     "apkUrl":  "https://raw.githubusercontent.com/q717466-star/kinovo-tv-releases/main/kinovo-tv-release.apk",
     "apkSize":  5103601,
-    "sha256":  "7387a9760638be971532b2062cfd66b1ba97216a148468e77a4bd9ccfcb2c710"
+    "sha256":  "a3a8cc96e5fdf180292c76e16e9ae1e63fd2becb9d2dd0d5c3ad230194afe794"
 }
