@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.3",
-    "versionName":  "1.0.3",
-    "versionCode":  4,
-    "changelog":  "• Исправлен возврат фокуса пульта вверх на билборд на главном экране\n• Исправлено пропадание фокуса при нажатии «Влево» на кнопке «Смотреть» в карточке фильма",
+    "version":  "1.0.4",
+    "versionName":  "1.0.4",
+    "versionCode":  5,
+    "changelog":  "• Улучшена работа 4K AV1: проверка аппаратной поддержки 4K, отсев AV1-only ссылок без HW-декодера и автооткат на H.264/HEVC при ошибке декодера\n• Включён FFmpeg-декодер аудио (AC3/E-AC3/DTS) и плавный Auto Frame Rate на Android TV 12+\n• Повышена плавность и стабильность: освобождение фонового декодера при запуске фильма, фоновая запись прогресса без микрофризов, исправлен пул карточек и анимация поиска\n• Добавлено открытие ссылок sinemo.online (/movie/, /tv/, разделы) прямо в Kinovo TV",
     "downloadUrl":  "https://raw.githubusercontent.com/q717466-star/kinovo-tv-releases/main/kinovo-tv-release.apk",
     "apkUrl":  "https://raw.githubusercontent.com/q717466-star/kinovo-tv-releases/main/kinovo-tv-release.apk",
-    "apkSize":  5103601,
-    "sha256":  "a3a8cc96e5fdf180292c76e16e9ae1e63fd2becb9d2dd0d5c3ad230194afe794"
+    "apkSize":  6028849,
+    "sha256":  "af777844bb00d4831f3fabc0f5a43a94b7429794ee328f0cced74801aaa49486"
 }
